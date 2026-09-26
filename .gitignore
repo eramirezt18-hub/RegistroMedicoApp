@@ -1,0 +1,20 @@
+# Compilados
+target/
+build/
+*.class
+
+# IDE
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.gradle/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
